@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://github.com/juleannynavas/juleannynavas/blob/main/1.%20Github_Banner_black.png" alt="Banner" width="100%" />
+<img src="https://github.com/juleannynavas/juleannynavas/blob/main/1.%20Github_Banner.png" alt="Banner" width="100%" />
 
 
 <h1 align="center">Hey there, I'm Juleanny 👋</h1>
