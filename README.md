@@ -41,6 +41,13 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ---
 
+### AWS Projects
+
+[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Amazon%20S3%20Bucket%20Creation%20and%20Objects%20Access%20Control%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-s3-creation-objects-access-control-aws-cli)
+
+
+---
+
 ### Certifications: Next Steps
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
