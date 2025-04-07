@@ -55,6 +55,8 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 [![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Migrating%20a%20Web%20Application%20database%20to%20Amazon%20RDS%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-migrating-web-application-database-to-amazon-RDS)
 
+[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Lambda%20triggered%20by%20S3%20to%20process%20'Word%20Count'%20and%20notify%20via%20SNS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-lambda-s3-sns-automation)
+
 ---
 
 ### Certifications: Next Steps
