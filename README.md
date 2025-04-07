@@ -59,7 +59,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20–%20Associate-#FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
