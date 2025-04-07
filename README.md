@@ -38,7 +38,14 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### Badges
 
-<img src="https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/4.aws-educate-getting-started-with-networking.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/5.aws-educate-getting-started-with-security.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/6.aws-educate-getting-started-with-cloud-operations.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/8.aws-educate-getting-started-with-serverless.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/9.aws-educate-getting-started-with-databases.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/7.cisco-python-essentials-1.png" width="150">
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/4.aws-educate-getting-started-with-networking.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/5.aws-educate-getting-started-with-security.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/6.aws-educate-getting-started-with-cloud-operations.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/8.aws-educate-getting-started-with-serverless.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/9.aws-educate-getting-started-with-databases.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/7.cisco-python-essentials-1.png" width="150"></a>
 
 ---
 
@@ -46,12 +53,12 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 [![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Amazon%20S3%20Bucket%20Creation%20and%20Objects%20Access%20Control%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-s3-creation-objects-access-control-aws-cli)
 
-
 ---
 
 ### Certifications: Next Steps
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20–%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
