@@ -35,7 +35,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### Badges
 
-[![Badge 1](https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png)](https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png) [![Badge 2](https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png)](https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png)
+<img src="https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png" width="150"> <img src="https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png" width="150">
 
 ---
 
