@@ -51,7 +51,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### AWS Projects
 
-[![AWS AWS Deploy a Static Website on Amazon EC2 with Apache](https://img.shields.io/badge/-AWS%20Deploy%20a%20Static%20Website%20on%20Amazon%20EC2%20with%20Apache-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache)
+[![AWS AWS Deploy a Static Website on Amazon EC2 with Apache](https://img.shields.io/badge/-AWS%20Deploy%20a%20Static%20Website%20on%20Amazon%20EC2%20with%20Apache%20(Bash%20scripting)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache)
 
 [![AWS Lambda (Python scripting) triggered by S3 to process 'Word Count' and notify via SNS](https://img.shields.io/badge/-AWS%20Lambda%20(Python%20scripting)%20triggered%20by%20S3%20to%20process%20'Word%20Count'%20and%20notify%20via%20SNS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-lambda-s3-sns-automation)
 
