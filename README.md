@@ -51,11 +51,13 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### AWS Projects
 
+[![AWS AWS Deploy a Static Website on Amazon EC2 with Apache](https://img.shields.io/badge/-AWS%20Deploy%20a%20Static%20Website%20on%20Amazon%20EC2%20with%20Apache-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache)
+
+[![AWS Lambda (Python scripting) triggered by S3 to process 'Word Count' and notify via SNS](https://img.shields.io/badge/-AWS%20Lambda%20(Python%20scripting)%20triggered%20by%20S3%20to%20process%20'Word%20Count'%20and%20notify%20via%20SNS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-lambda-s3-sns-automation)
+
+[![AWS Migrating a Web Application database to Amazon RDS using AWS CLI](https://img.shields.io/badge/-AWS%20Migrating%20a%20Web%20Application%20database%20to%20Amazon%20RDS%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-migrating-web-application-database-to-amazon-RDS)
+
 [![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Amazon%20S3%20Bucket%20Creation%20and%20Objects%20Access%20Control%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-s3-creation-objects-access-control-aws-cli)
-
-[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Migrating%20a%20Web%20Application%20database%20to%20Amazon%20RDS%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-migrating-web-application-database-to-amazon-RDS)
-
-[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Lambda%20(Python%20scripting)%20triggered%20by%20S3%20to%20process%20'Word%20Count'%20and%20notify%20via%20SNS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-lambda-s3-sns-automation)
 
 ---
 
