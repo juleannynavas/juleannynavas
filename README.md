@@ -10,7 +10,7 @@
 Passionate about technology, I'm currently advancing my career in Cloud Computing with a focus on AWS. I combine my iOS development background with cloud skills in Python, SQL, and Bash. I continuously learn and adapt, demonstrating resilience and flexibility when tackling challenges. I'm eager to collaborate on innovative projects and build scalable, cloud-driven solutions. 
 </p>
 
---
+---
 
 ### 🧑‍💻 About Me
 
