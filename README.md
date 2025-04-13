@@ -46,6 +46,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/8.aws-educate-getting-started-with-serverless.png" width="150"></a> 
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/9.aws-educate-getting-started-with-databases.png" width="150"></a> 
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/7.cisco-python-essentials-1.png" width="150"></a>
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/10.cisco-linux-unhatched.png" width="150"></a>
 
 ---
 
