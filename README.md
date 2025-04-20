@@ -58,7 +58,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 [![AWS Migrating a Web Application database to Amazon RDS using AWS CLI](https://img.shields.io/badge/-AWS%20Migrating%20a%20Web%20Application%20database%20to%20Amazon%20RDS%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-migrating-web-application-database-to-amazon-RDS)
 
-[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Amazon%20S3%20Bucket%20Creation%20and%20Objects%20Access%20Control%20using%20AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-s3-creation-objects-access-control-aws-cli)
+[![AWS Amazon S3: Bucket creation and objects Access Control using AWS CLI](https://img.shields.io/badge/-AWS%20Amazon%20S3%20Bucket%20Creation%20and%20Objects%20Access%20Control%20using%20AWS%20CLI-142c52?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-s3-creation-objects-access-control-aws-cli)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-232F3E?style=flat-square&logo=amazon-aws)
 ---
 
