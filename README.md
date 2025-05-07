@@ -38,13 +38,15 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### Badges
 
-<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png" width="150"></a> 
-<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png" width="150"></a> 
-<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/4.aws-educate-getting-started-with-networking.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/12.aws-certified-cloud-practitioner.png" width="150"></a>
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/11.re-start-graduate.png" width="150"></a>
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/4.aws-educate-getting-started-with-networking.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/5.aws-educate-getting-started-with-security.png" width="150"></a> 
-<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/6.aws-educate-getting-started-with-cloud-operations.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/6.aws-educate-getting-started-with-cloud-operations.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/8.aws-educate-getting-started-with-serverless.png" width="150"></a> 
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/9.aws-educate-getting-started-with-databases.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/3.aws-educate-getting-started-with-compute.png" width="150"></a> 
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/2.aws-educate-cloud-computing-101.png" width="150"></a> 
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/7.cisco-python-essentials-1.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/10.cisco-linux-unhatched.png" width="150"></a>
 
