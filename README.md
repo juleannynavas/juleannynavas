@@ -15,7 +15,7 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 ### 🧑‍💻 About Me
 
 - 🌍 I'm based in **Spain**
-- 💼 I recently finished the **AWS re/Start Program**
+- 💼 **AWS Certified Cloud Practitioner**
 - 🚀 Passionate about **Technology**
 - 🧠 Currently **AWS Cloud**
 - 💬 Ask me about **AWS Cloud, Swift, Python, Bash, SQL**
