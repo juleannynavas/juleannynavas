@@ -55,7 +55,10 @@ Passionate about technology, I'm currently advancing my career in Cloud Computin
 
 ### AWS Projects
 
-[![AWS AWS Deploy a Static Website on Amazon EC2 with Apache](https://img.shields.io/badge/-AWS%20Deploy%20a%20Static%20Website%20on%20Amazon%20EC2%20with%20Apache%20(Bash%20scripting)-142c52?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache) 
+[![AWS CloudFormation - Infrastructure Automation](https://img.shields.io/badge/-AWS%20CloudFormation%20-%20Infrastructure%20Automation-142c52?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/aws-cloudformation-automation) 
+![AWS CloudFormation](https://img.shields.io/badge/-EC2-232F3E?style=flat-square&logo=amazon-aws) ![Infrastructure Composer](https://img.shields.io/badge/-SSH%20access-232F3E?style=flat-square&logo=amazon-aws) ![Deletion Policies](https://img.shields.io/badge/-Security%20Groups-232F3E?style=flat-square&logo=amazon-aws) ![YAML](https://img.shields.io/badge/-YAML-CF2C1D?style=flat-square&logo=yaml&logoColor=white)
+
+[![AWS Deploy a Static Website on Amazon EC2 with Apache](https://img.shields.io/badge/-AWS%20Deploy%20a%20Static%20Website%20on%20Amazon%20EC2%20with%20Apache%20(Bash%20scripting)-142c52?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-static-website-amazon-ec2-with-apache) 
 ![AWS EC2](https://img.shields.io/badge/-EC2-232F3E?style=flat-square&logo=amazon-aws) ![SSH](https://img.shields.io/badge/-SSH%20access-232F3E?style=flat-square&logo=amazon-aws) ![SG](https://img.shields.io/badge/-Security%20Groups-232F3E?style=flat-square&logo=amazon-aws) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 [![AWS Lambda (Python scripting) triggered by S3 to process 'Word Count' and notify via SNS](https://img.shields.io/badge/-AWS%20Lambda%20(Python%20scripting)%20triggered%20by%20S3%20to%20process%20'Word%20Count'%20and%20notify%20via%20SNS-142c52?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/juleannynavas/AWS-lambda-s3-sns-automation) 
