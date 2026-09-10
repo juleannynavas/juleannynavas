@@ -65,7 +65,7 @@ What I bring beyond the technical stack is a background in financial audit, wher
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/7.cisco-python-essentials-1.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/10.cisco-linux-unhatched.png" width="150"></a>
 
-<p align="center">
+<p align="left">
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://img.shields.io/badge/-View%20All%20Badges%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
