@@ -11,22 +11,11 @@ From auditing financial systems to managing cloud infrastructure in production. 
  
 My path into cloud engineering is unconventional, and I believe that is exactly what makes it valuable.
  
-I work as a Cloud Infrastructure Engineer at NTT DATA, managing AWS production environments for enterprise clients. My day-to-day includes:
- 
-→ Infrastructure deployment with Terraform and Ansible
- → System monitoring with CloudWatch, Grafana, and Prometheus
- → L2 on-call incident response under senior supervision: triage, escalation, and resolution
- → IAM provisioning and VPN deployment for multiple clients
- → Cost monitoring with AWS Cost Explorer and Trusted Advisor
- → RDS MySQL patch management and version upgrades
- → Production change management under CAB-approved RFCs
- → Technical documentation and operational runbooks
+I work as a Cloud Infrastructure Engineer at NTT DATA, managing AWS production environments for enterprise clients. 
  
 What I bring beyond the technical stack is a background in financial audit at PwC and Santander, where I spent years assessing risk, ensuring compliance, and communicating complex findings to senior stakeholders. That experience shows up in cloud ops in ways I never expected: documentation discipline, risk awareness in production environments, and the ability to translate technical issues into business language.
- 
-My long-term goal is not just to operate cloud infrastructure but to design it. I am actively building toward that path through certifications and hands-on experience.
- 
-Certifications: AWS Certified Cloud Practitioner · HashiCorp Terraform Associate 004
+
+ Certifications: AWS Certified Cloud Practitioner · HashiCorp Terraform Associate 004
 Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2026)
 
 </p>
@@ -36,7 +25,7 @@ Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2
 ### 🧑‍💻 About Me
 
 - 🌍 Based in **Spain**
-- 💼 Cloud Infrastructure Engineer @ NTT DATA — AWS production environments
+- 💼 Cloud Infrastructure Engineer @ NTT DATA - AWS production environments
 - 🛠 **Terraform Certified Associate (004)** · **AWS Certified Cloud Practitioner**
 - 🚀 Currently pursuing **AWS SAA-C03** and **FinOps Certified Practitioner**
 - 🧠 Day-to-day: Terraform & Ansible deployments, CloudWatch/Grafana/Prometheus monitoring, IAM, cost optimization
@@ -48,7 +37,7 @@ Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2
 ### 🛠 Tech Stack
 
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
