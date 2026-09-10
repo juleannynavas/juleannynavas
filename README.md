@@ -8,16 +8,12 @@
 
 <p align="center"> 
 From auditing financial systems to managing cloud infrastructure in production. My career has always been about understanding how complex systems work and making them more reliable, efficient, and secure.
- 
+
 My path into cloud engineering is unconventional, and I believe that is exactly what makes it valuable.
- 
-I work as a Cloud Infrastructure Engineer at NTT DATA, managing AWS production environments for enterprise clients. 
- 
-What I bring beyond the technical stack is a background in financial audit at PwC and Santander, where I spent years assessing risk, ensuring compliance, and communicating complex findings to senior stakeholders. That experience shows up in cloud ops in ways I never expected: documentation discipline, risk awareness in production environments, and the ability to translate technical issues into business language.
 
- Certifications: AWS Certified Cloud Practitioner · HashiCorp Terraform Associate 004
-Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2026)
+I work as a Cloud Infrastructure Engineer at NTT DATA, managing AWS production environments for enterprise clients.
 
+What I bring beyond the technical stack is a background in financial audit, where I spent years assessing risk, ensuring compliance, and communicating complex findings to senior stakeholders. That experience shows up in cloud ops in ways I never expected: documentation discipline, risk awareness in production environments, and the ability to translate technical issues into business language.
 </p>
 
 ---
@@ -88,6 +84,7 @@ Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2
 ### Certifications: Next Steps
 
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FinOps Certified Practitioner](https://img.shields.io/badge/-FinOps%20Certified%20Practitioner-142c52?style=for-the-badge)
 
 ---
 
