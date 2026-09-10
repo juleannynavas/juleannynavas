@@ -50,7 +50,7 @@ What I bring beyond the technical stack is a background in financial audit, wher
 
 ### Badges
 
-<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/15.hashicorp-certified-terraform.png" width="150"></a>
+<a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/15.hashicorp-certified-terraform-associate-004.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/14.aws-partner-cloud-operations-essentials.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/13.aws-partner-technical.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/12.aws-certified-cloud-practitioner.png" width="150"></a>
