@@ -4,21 +4,43 @@
 
 <h1 align="center">I'm Juleanny 👋</h1>
 
-<h3 align="center">AWS Cloud Professional | Software Developer</h3>
+<h3 align="center">Cloud Infrastructure Engineer | AWS · Terraform · Ansible | IaC · Linux · Grafana</h3>
 
 <p align="center"> 
-Passionate about technology, I'm currently advancing my career in Cloud Computing with a focus on AWS. I combine my iOS development background with cloud skills in Python, SQL, and Bash. I continuously learn and adapt, demonstrating resilience and flexibility when tackling challenges. I'm eager to collaborate on innovative projects and build scalable, cloud-driven solutions. 
+From auditing financial systems to managing cloud infrastructure in production. My career has always been about understanding how complex systems work and making them more reliable, efficient, and secure.
+ 
+My path into cloud engineering is unconventional, and I believe that is exactly what makes it valuable.
+ 
+I work as a Cloud Infrastructure Engineer at NTT DATA, managing AWS production environments for enterprise clients. My day-to-day includes:
+ 
+→ Infrastructure deployment with Terraform and Ansible
+ → System monitoring with CloudWatch, Grafana, and Prometheus
+ → L2 on-call incident response under senior supervision: triage, escalation, and resolution
+ → IAM provisioning and VPN deployment for multiple clients
+ → Cost monitoring with AWS Cost Explorer and Trusted Advisor
+ → RDS MySQL patch management and version upgrades
+ → Production change management under CAB-approved RFCs
+ → Technical documentation and operational runbooks
+ 
+What I bring beyond the technical stack is a background in financial audit at PwC and Santander, where I spent years assessing risk, ensuring compliance, and communicating complex findings to senior stakeholders. That experience shows up in cloud ops in ways I never expected: documentation discipline, risk awareness in production environments, and the ability to translate technical issues into business language.
+ 
+My long-term goal is not just to operate cloud infrastructure but to design it. I am actively building toward that path through certifications and hands-on experience.
+ 
+Certifications: AWS Certified Cloud Practitioner · HashiCorp Terraform Associate 004
+Currently pursuing: AWS SAA-C03 (Q3 2026) · FinOps Certified Practitioner (Q4 2026)
+
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌍 I'm based in **Spain**
-- 💼 **AWS Certified Cloud Practitioner**
-- 🚀 Passionate about **Technology**
-- 🧠 Currently **AWS Cloud**
-- 💬 Ask me about **AWS Cloud, Swift, Python, Bash, SQL**
+- 🌍 Based in **Spain**
+- 💼 Cloud Infrastructure Engineer @ NTT DATA — AWS production environments
+- 🛠 **Terraform Certified Associate (004)** · **AWS Certified Cloud Practitioner**
+- 🚀 Currently pursuing **AWS SAA-C03** and **FinOps Certified Practitioner**
+- 🧠 Day-to-day: Terraform & Ansible deployments, CloudWatch/Grafana/Prometheus monitoring, IAM, cost optimization
+- 💬 Ask me about **AWS, Terraform, Ansible, IaC, Cloud Ops, FinOps**
 - 📫 Reach me at **juleannynavas@gmail.com**
 
 ---
