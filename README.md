@@ -6,7 +6,7 @@
 
 <h3 align="center">Cloud Infrastructure Engineer | AWS · Terraform · Ansible | IaC · Linux · Grafana</h3>
 
-<div align="right">
+<div align="left">
 
 From auditing financial systems to managing cloud infrastructure in production. My career has always been about understanding how complex systems work and making them more reliable, efficient, and secure.
 
