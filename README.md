@@ -50,9 +50,9 @@ What I bring beyond the technical stack is a background in financial audit, wher
 
 ### Badges
 
-<a href="https://www.credly.com/badges/9f702ce3-83a4-497a-b244-ecfdc410bf7c/public_url"><img src="https://images.credly.com/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/linkedin_thumb_blob" width="150"></a>
-<a href="https://www.credly.com/badges/e05055e3-c38e-4b02-ad0f-fbf4d5bcc24b/public_url"><img src="https://images.credly.com/images/59c5bb35-8308-4b76-a05c-d9ab2ef3f7f0/linkedin_thumb_blob" width="150"></a>
-<a href="https://www.credly.com/badges/1735b1e4-b009-4d1c-b1af-2b048af2e148/public_url"><img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="150"></a>
+<a href="https://www.credly.com/badges/9f702ce3-83a4-497a-b244-ecfdc410bf7c/public_url"><img src="https://images.credly.com/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/linkedin_thumb_blob" width="150" height="150" style="object-fit:contain"></a>
+<a href="https://www.credly.com/badges/e05055e3-c38e-4b02-ad0f-fbf4d5bcc24b/public_url"><img src="https://images.credly.com/images/59c5bb35-8308-4b76-a05c-d9ab2ef3f7f0/linkedin_thumb_blob" width="150" height="150" style="object-fit:contain"></a>
+<a href="https://www.credly.com/badges/1735b1e4-b009-4d1c-b1af-2b048af2e148/public_url"><img src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/linkedin_thumb_blob" width="150" height="150" style="object-fit:contain"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/12.aws-certified-cloud-practitioner.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/11.re-start-graduate.png" width="150"></a>
 <a href="https://www.credly.com/users/juleanny-navas"><img src="https://github.com/juleannynavas/juleannynavas/blob/main/4.aws-educate-getting-started-with-networking.png" width="150"></a>
